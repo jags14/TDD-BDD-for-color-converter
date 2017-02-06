@@ -1,0 +1,25 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "color converter from rgb to hex and from hex to rgb",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "rgb",
+    "to",
+    "hex",
+    "hex",
+    "to",
+    "rgb"
+  ],
+  "author": "jagpat",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.1",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  }
+}
